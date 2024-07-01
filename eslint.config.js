@@ -9,7 +9,7 @@ export default antfu({
     },
 
     overrides: {
-      // Should not trigger an ESLint error on `main.ts#L13`.
+      // Should not trigger an ESLint error on `main.ts#L4`.
       'ts/no-unsafe-argument': 'off',
     },
   },
